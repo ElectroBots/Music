@@ -1,5 +1,5 @@
-#Music Bot with low plugins
+# Music Bot with low plugins
 
-### •/play
-###• /skip
-### •/end
+### /play
+###  /skip
+### /end
